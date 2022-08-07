@@ -1,0 +1,47 @@
+#fline
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#fline p
+{
+    margin-top: -15px;
+}
+#pic1
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+.description
+{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+.responsive
+{
+    width: 100%;
+    max-width: auto;
+    height: auto;
+}
+.center
+{
+    width: 25%;
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+li
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+dd
+{
+    margin-top: 10px;
+    text-align: center;
+}
